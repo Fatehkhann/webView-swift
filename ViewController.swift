@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  BeepBeep
-//
-//  Created by mac on 17/09/2019.
-//  Copyright © 2019 BeepBeep. All rights reserved.
-//
-
 import UIKit
 import WebKit
 
